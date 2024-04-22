@@ -13,6 +13,7 @@ In the thrilling world of Bloons TD 6, where hordes of balloons threaten to over
 
 ## Crowd Control 🥶
 ![Ice Monkey](https://github.com/Ben9boyz/FagProove-2024/assets/167029110/624667f2-e736-4557-8afa-9c8781957d85)
+
 Facing a massive wave of bloons? No problem! The Ice Monkey excels at crowd control. Its ability to freeze multiple bloons at once can turn the tide of battle, allowing your other towers to focus their fire and decimate the bloon horde.
 
 ---
