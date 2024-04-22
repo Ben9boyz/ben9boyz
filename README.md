@@ -1,4 +1,4 @@
-# Why Ice Monkey is Essential in Bloons TD 6 🧊
+# Why I love Ice Monkey in Bloons TD 6 🧊
 
 ## Introduction
 In the thrilling world of Bloons TD 6, where hordes of balloons threaten to overrun your defenses, one tower stands out as an essential tool in your arsenal: the Ice Monkey! Let's delve into why this frosty warrior is crucial for victory.
